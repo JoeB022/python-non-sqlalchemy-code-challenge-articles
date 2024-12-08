@@ -12,7 +12,7 @@ class Article:
 
     @property
     def title(self):
-        return self._title  # Immutable
+        return self._title  #Immutable
 
 
 class Author:
